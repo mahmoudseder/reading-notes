@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 aIn order to teach you about creating web pages,
+=======
+# Welcome to my main 
+## aIn order to teach you about creating web pages,
+>>>>>>> 8ba92ebcd577eaa10c928615852d0c3c6e1bfaa2
 this book is divided into three sections
 the DNS servers that tell your
 browser how to find the website.
