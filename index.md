@@ -18,5 +18,4 @@
 
 [raed03](https://mahmoudseder.github.io/reading-notes/raed03) 
 
-[raed04](https://mahmoudseder.github.io/reading-notes/raed04
-) 
+[raed04](https://mahmoudseder.github.io/reading-notes/raed04) 
