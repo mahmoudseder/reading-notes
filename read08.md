@@ -1,23 +1,15 @@
- var hi = prompt("Welcome to my website Enter Your Name");
-
-function supermarket() {
-    
-
-var phoneNumber = prompt("Enter Your Phone  NUmber ?");
-
- if ( phoneNumber == "079") {
-     alert("Zain !!!");
-    }else if (phoneNumber == "078") {
-    alert("Umniah")
-} else if (phoneNumber == "077" ){
-    alert("Orange!");
-} else{
-    alert("somthing went wrong sorry");
-}
-
-//   }
-
-//   // output
- document.write('<h3>'+hi+'</h3>');
-}
-supermarket();
+Conditional statements allow your code to make
+decisions about what to do next.
+Comparison operators 
+are used to compare two operands.
+Logical operators allow you to combine more than one
+set of comparison operators.
+if ... else statements allow you to run one set of code
+if a condition is true, and another if it is false.
+switch statements allow you to compare a value
+against possible outcomes (and also provides a default
+option if none match).
+Data types can be coerced from one type to another.
+All values evaluate to either truthy or falsy.
+There are three types of loop: for, while, and
+do ... while. Each repeats a set of statements. 
